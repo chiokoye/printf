@@ -1,2 +1,2 @@
 0x11. C - printf
-partner 2
+partner 2 kay

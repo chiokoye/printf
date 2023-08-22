@@ -29,9 +29,8 @@ int _printf(const char *format, ...);
 		}
 		else if (format[i + 1] == '%')
 		{
-			_putchar('%'); 
+			_putchar('%');
 		}
-	
 		count += 1;
 	}
 	va_ends(args);
